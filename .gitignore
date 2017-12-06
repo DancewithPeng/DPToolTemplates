@@ -5,6 +5,9 @@
 # gitignore folder
 gitignore/
 
+# project templates folder
+ProjectTemplates/
+
 ## User settings
 #xcuserdata/
 
